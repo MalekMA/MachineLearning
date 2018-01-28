@@ -30,4 +30,4 @@ virtualenv venv
 - Run the code
 `python retrieve_data.py`
 
-After following the above steps, you shall see a new folder `ksi_data.csv` which will contain the data in a CSV format.
+After following the above steps, you shall see a new file `ksi_data.csv` which will contain the data in a CSV format.
